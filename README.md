@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://dock.tech/wp-content/themes/dock/build/img/logo-black.svg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://e7.pngegg.com/pngimages/810/874/png-clipart-computer-icons-google-compute-engine-google-cloud-platform-cloud-computing-id8-civil-engineer-blue-text.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Desafio Dock</h3>
+<h3 align="center">POC - Microservice PUB/SUB GPC</h3>
 
 <div align="center">
 
