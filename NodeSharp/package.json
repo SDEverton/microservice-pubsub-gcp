@@ -1,0 +1,15 @@
+{
+  "name": "NodeSharp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon index.js"
+  },
+  "dependencies": {
+    "@google-cloud/pubsub": "^2.19.0",
+    "@google-cloud/storage": "^5.18.2",
+    "dotenv": "^16.0.0",
+    "sharp": "^0.30.1"
+  }
+}
