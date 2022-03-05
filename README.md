@@ -28,7 +28,7 @@
 
 ## 🧐 Sobre <a name = "about"></a>
 
-Com o objetivo de testar os recursos que o ambiente GCP nos proporciona para Microservice, criei um pequeno exemplo de como usar o PUB/SUB + o Storage permitindo o acesso público de um arquivo, decidindo isso dentro da aplicação. Para isso criei 2 projetos, um para receber uma imagem via HTTP transformando esta para base64 e inscrevendo essa informação em um tópico que é lido pelo segundo projeto por meio de um subscribe.
+Com o objetivo de testar os recursos que o ambiente GCP nos proporciona para Microservice, criei um pequeno exemplo de como usar o PUB/SUB + o Storage permitindo o acesso público de um arquivo, decidindo isso dentro da aplicação. Para isso criei 2 projetos, um para receber uma imagem via HTTP transformando esta para base64 e inscrevendo essa informação em um tópico que é lido pelo segundo projeto por meio de um subscribe onde é removida a cor da imagem inserindo um texto sobre a mesma inscrevendo esta novamente em um outro tópico que é devolvido para o primeiro projeto que exibe a url da imagem dentro do Storage da GCP com as devidas alterações.
 
 
 ## 🏁 Iniciando <a name = "getting_started"></a>
